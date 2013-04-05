@@ -1,0 +1,224 @@
+<m2>
+  <info>
+    <fullname>World\Nodxt\detail\apkbus01</fullname>
+    <modelname>World\Nodxt\detail\apkbus01.m2</modelname>
+  </info>
+  <header>
+    <nameLength>9</nameLength>
+    <nameOfs>304</nameOfs>
+    <name>ApkBus01</name>
+    <GlobalModelFlags>0</GlobalModelFlags>
+    <nGlobalSequences>0</nGlobalSequences>
+    <ofsGlobalSequences>0</ofsGlobalSequences>
+    <nAnimations>1</nAnimations>
+    <ofsAnimations>320</ofsAnimations>
+    <nAnimationLookup>0</nAnimationLookup>
+    <ofsAnimationLookup>0</ofsAnimationLookup>
+    <nBones>1</nBones>
+    <ofsBones>384</ofsBones>
+    <nKeyBoneLookup>1</nKeyBoneLookup>
+    <ofsKeyBoneLookup>480</ofsKeyBoneLookup>
+    <nVertices>8</nVertices>
+    <ofsVertices>496</ofsVertices>
+    <nViews>1</nViews>
+    <lodname>World\Nodxt\detail\apkbus0100.skin</lodname>
+    <nColors>0</nColors>
+    <ofsColors>0</ofsColors>
+    <nTextures>1</nTextures>
+    <ofsTextures>880</ofsTextures>
+    <nTransparency>1</nTransparency>
+    <ofsTransparency>960</ofsTransparency>
+    <nTexAnims>0</nTexAnims>
+    <ofsTexAnims>0</ofsTexAnims>
+    <nTexReplace>1</nTexReplace>
+    <ofsTexReplace>1024</ofsTexReplace>
+    <nTexFlags>1</nTexFlags>
+    <ofsTexFlags>1040</ofsTexFlags>
+    <nBoneLookup>4</nBoneLookup>
+    <ofsBoneLookup>1056</ofsBoneLookup>
+    <nTexLookup>1</nTexLookup>
+    <ofsTexLookup>1072</ofsTexLookup>
+    <nTexUnitLookup>1</nTexUnitLookup>
+    <ofsTexUnitLookup>1088</ofsTexUnitLookup>
+    <nTransparencyLookup>1</nTransparencyLookup>
+    <ofsTransparencyLookup>1104</ofsTransparencyLookup>
+    <nTexAnimLookup>1</nTexAnimLookup>
+    <ofsTexAnimLookup>1120</ofsTexAnimLookup>
+    <PhysicsSettings>
+      <VertexBox0>(-0.275908, -0.388836, -0.151768)</VertexBox0>
+      <VertexBox1>(0.61905, 0.587517, 0.996336)</VertexBox1>
+      <VertexRadius>0.777953</VertexRadius>
+      <BoundingBox0>(0, 0, 0)</BoundingBox0>
+      <BoundingBox1>(0, 0, 0)</BoundingBox1>
+      <BoundingRadius>0</BoundingRadius>
+    </PhysicsSettings>
+    <nBoundingTriangles>0</nBoundingTriangles>
+    <ofsBoundingTriangles>0</ofsBoundingTriangles>
+    <nBoundingVertices>0</nBoundingVertices>
+    <ofsBoundingVertices>0</ofsBoundingVertices>
+    <nBoundingNormals>0</nBoundingNormals>
+    <ofsBoundingNormals>0</ofsBoundingNormals>
+    <nAttachments>0</nAttachments>
+    <ofsAttachments>0</ofsAttachments>
+    <nAttachLookup>0</nAttachLookup>
+    <ofsAttachLookup>0</ofsAttachLookup>
+    <nEvents>0</nEvents>
+    <ofsEvents>0</ofsEvents>
+    <nLights>0</nLights>
+    <ofsLights>0</ofsLights>
+    <nCameras>0</nCameras>
+    <ofsCameras>0</ofsCameras>
+    <nCameraLookup>0</nCameraLookup>
+    <ofsCameraLookup>0</ofsCameraLookup>
+    <nRibbonEmitters>0</nRibbonEmitters>
+    <ofsRibbonEmitters>0</ofsRibbonEmitters>
+    <nParticleEmitters>0</nParticleEmitters>
+    <ofsParticleEmitters>0</ofsParticleEmitters>
+  </header>
+  <SkeletonAndAnimation>
+  <GlobalSequences>
+  </GlobalSequences>
+  <Animations>
+    <Animation id="0">
+      <animID>0</animID>
+      <length>3333</length>
+      <moveSpeed>0</moveSpeed>
+      <flags>32</flags>
+      <probability>32767</probability>
+      <d1>0</d1>
+      <d2>0</d2>
+      <playSpeed>150</playSpeed>
+      <boxA>(0, 0, 0)</boxA>
+      <boxB>(0, 0, 0)</boxB>
+      <rad>0.777953</rad>
+      <NextAnimation>-1</NextAnimation>
+      <Index>0</Index>
+    </Animation>
+  </Animations>
+  <AnimationLookups>
+  </AnimationLookups>
+  <Bones>
+    <Bone id="0">
+      <keyboneid>-1</keyboneid>
+      <billboard>0</billboard>
+      <parent>-1</parent>
+      <geoid>0</geoid>
+      <unknown>-1510613104</unknown>
+      <pivot>(0.180988, 0.100681, 0.124155)</pivot>
+    </Bone>
+  </Bones>
+  <BoneLookups></BoneLookups>
+  <KeyBoneLookups>
+<KeyBoneLookup id="0">-1</KeyBoneLookup>
+  </KeyBoneLookups>
+  </SkeletonAndAnimation>
+  <GeometryAndRendering>
+  <Vertices>8</Vertices>
+  <Views>
+  <Indices>8</Indices>
+  <Triangles>12</Triangles>
+  <Properties>8</Properties>
+  <Subs>1</Subs>
+  <Texs>1</Texs>
+	<RenderPasses>
+	  <RenderPass id="0">
+      <indexStart>0</indexStart>
+      <indexCount>12</indexCount>
+      <vertexStart>0</vertexStart>
+      <vertexEnd>8</vertexEnd>
+      <tex>0</tex>
+      <useTex2>0</useTex2>
+      <useEnvMap>0</useEnvMap>
+      <cull>0</cull>
+      <trans>0</trans>
+      <unlit>0</unlit>
+      <noZWrite>0</noZWrite>
+      <billboard>0</billboard>
+      <p>0.416846</p>
+      <texanim>-1</texanim>
+      <color>-1</color>
+      <opacity>0</opacity>
+      <blendmode>1</blendmode>
+      <order>0</order>
+      <geoset>0</geoset>
+      <swrap>1</swrap>
+      <twrap>1</twrap>
+      <ocol>(1, 1, 1, 1)</ocol>
+      <ecol>(0, 0, 0, 0)</ecol>
+	  </RenderPass>
+	</RenderPasses>
+	<Geosets>
+	  <Geoset id="0">
+      <id>0</id>
+      <vstart>0</vstart>
+      <vcount>8</vcount>
+      <istart>0</istart>
+      <icount>12</icount>
+      <nBones>1</nBones>
+      <StartBones>3</StartBones>
+      <BoundingBox>(0.0689986, 0.0483138, 0.416846)</BoundingBox>
+      <BoundingBox>(0.0689986, 0.0483138, 0.416846)</BoundingBox>
+      <radius>0.748893</radius>
+	  </Geoset>
+	</Geosets>
+	<TexUnits>
+	  <TexUnit id="0">
+      <flags>16</flags>
+      <shading>0</shading>
+      <op>0</op>
+      <op2>0</op2>
+      <colorIndex>-1</colorIndex>
+      <flagsIndex>0</flagsIndex>
+      <texunit>0</texunit>
+      <mode>1</mode>
+      <textureid>0</textureid>
+      <texunit2>0</texunit2>
+      <transid>0</transid>
+      <texanimid>0</texanimid>
+	  </TexUnit>
+	</TexUnits>
+  </Views>
+  <RenderFlags></RenderFlags>
+	<Colors>
+	</Colors>
+	<Transparency>
+    <Tran id="0">
+    <trans>
+      <type>0</type>
+      <seq>-1</seq>
+      <anims>
+    <anim id="0">
+      <data time="0">1</data>
+    </anim>
+      </anims>
+    </trans>
+    </Tran>
+	</Transparency>
+  <TransparencyLookup></TransparencyLookup>
+	<Textures>
+	  <Texture id="0">
+      <type>0</type>
+      <flags>3</flags>
+		<name>World\NoDXT\Detail\AeriePeaksDetailDoodads_256.blp</name>
+	  </Texture>
+	</Textures>
+	<TextureLookup></TextureLookup>
+	<ReplacableTextureLookup></ReplacableTextureLookup>
+  </GeometryAndRendering>
+  <Effects>
+	<TexAnims>
+	</TexAnims>
+	<RibbonEmitters></RibbonEmitters>
+	<Particles>
+	</Particles>
+  </Effects>
+	<Miscellaneous>
+	<BoundingVolumes></BoundingVolumes>
+	<Lights></Lights>
+	<Cameras></Cameras>
+	<Attachments>
+	</Attachments>
+	<Events>
+	</Events>
+	</Miscellaneous>
+</m2>
